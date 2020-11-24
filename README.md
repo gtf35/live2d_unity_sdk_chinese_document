@@ -35,11 +35,10 @@
   - 更新导入的模型    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-getting-started-reimportmodel/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%85%A5%E9%97%A8/%E6%9B%B4%E6%96%B0%E5%AF%BC%E5%85%A5%E7%9A%84%E6%A8%A1%E5%9E%8B.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/reimportmodel/)
   - 在运行时加载模型    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-getting-started-initializemodel/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%85%A5%E9%97%A8/%E5%9C%A8%E8%BF%90%E8%A1%8C%E6%97%B6%E5%8A%A0%E8%BD%BD%E6%A8%A1%E5%9E%8B.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/initializemodel/)
   - 关于更新模型参数   [博客](https://blog.gtf35.top/cubism-sdk-tutorials-getting-started-about-parameterupdating-of-model/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%85%A5%E9%97%A8/%E5%85%B3%E4%BA%8E%E6%9B%B4%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/about-parameterupdating-of-model/)
+  - 更新 Cubism Components  [博客](https://blog.gtf35.top/cubism-sdk-tutorials-getting-started-update-components/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%85%A5%E9%97%A8/%E6%9B%B4%E6%96%B0%20Cubism%20Components.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/update-components/)
 
 未完成：
 
-- 入门
-  - 更新 Cubism Components    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/update-components/)
 - 如何使用组件
   - 命中判断设置    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/hittest/)
   - 视线跟踪设置    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/lookat/)
