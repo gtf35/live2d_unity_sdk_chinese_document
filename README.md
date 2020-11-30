@@ -39,11 +39,11 @@
 - 如何使用组件
   - 设置命中判断    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-how-to-use-hittest/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%91%BD%E4%B8%AD%E5%88%A4%E6%96%AD.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/hittest/)
   - 实现视线跟踪    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-lookat/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9E%E7%8E%B0%E8%A7%86%E7%BA%BF%E8%BF%BD%E8%B8%AA.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/lookat/)
+  - 实现自动眨眼    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-eyeblink/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E7%9C%A8%E7%9C%BC.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/eyeblink/)
 
 未完成：
 
 - 如何使用组件
-  - 自动眨眼设置    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/eyeblink/)
   - 嘴唇同步设置    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/lipsync/)
   - 如何使参数定期工作    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/harmonicmotion/)
   - 在模型的 Drawables 之间放置另一个精灵    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/betweendrawables/)
