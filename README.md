@@ -41,7 +41,7 @@
   - 实现视线跟踪    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-lookat/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9E%E7%8E%B0%E8%A7%86%E7%BA%BF%E8%BF%BD%E8%B8%AA.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/lookat/)
   - 实现自动眨眼    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-eyeblink/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E7%9C%A8%E7%9C%BC.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/eyeblink/)
   - 嘴唇同步设置   [博客](https://blog.gtf35.top/cubism-sdk-tutorials-lipsync/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9E%E7%8E%B0%E5%8F%A3%E5%9E%8B%E5%90%8C%E6%AD%A5.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/lipsync/)
-  - 如何使参数定期工作    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-harmonicmotion/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8F%82%E6%95%B0%E5%80%BC%E5%91%A8%E6%9C%9F%E5%8F%98%E5%8C%96.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/harmonicmotion/)
+  - 如何实现参数值周期变化    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-harmonicmotion/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8F%82%E6%95%B0%E5%80%BC%E5%91%A8%E6%9C%9F%E5%8F%98%E5%8C%96.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/harmonicmotion/)
 
 未完成：
 
