@@ -42,11 +42,11 @@
   - 实现自动眨眼    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-eyeblink/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E7%9C%A8%E7%9C%BC.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/eyeblink/)
   - 嘴唇同步设置   [博客](https://blog.gtf35.top/cubism-sdk-tutorials-lipsync/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9E%E7%8E%B0%E5%8F%A3%E5%9E%8B%E5%90%8C%E6%AD%A5.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/lipsync/)
   - 如何实现参数值周期变化    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-harmonicmotion/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8F%82%E6%95%B0%E5%80%BC%E5%91%A8%E6%9C%9F%E5%8F%98%E5%8C%96.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/harmonicmotion/)
+  - 如何在模型的 Drawable 之间插入精灵    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-betweendrawables/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%A8%A1%E5%9E%8B%E7%9A%84%20Drawable%20%E4%B9%8B%E9%97%B4%E6%8F%92%E5%85%A5%E7%B2%BE%E7%81%B5.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/betweendrawables/)
 
 未完成：
 
 - 如何使用组件
-  - 在模型的 Drawables 之间放置另一个精灵    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/betweendrawables/)
   - 获取艺术网格中的用户数据集    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/userdata-drawable/)
   - 获取在 motion3.json 中设置的事件    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motion-event/)
   - 通过脚本播放动作    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motion-unity-ow/)
