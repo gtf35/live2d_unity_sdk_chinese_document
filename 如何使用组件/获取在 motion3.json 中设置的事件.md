@@ -10,7 +10,7 @@
 
 本节介绍如何从自动生成的 AnimationClip 发出的事件中获取 motion3.json 中设置的事件的信息。
 
-译者注：意思的这篇文章讲诉了如何获取 motion3.json 里面事件的具体信息，然后因为 motion3.json 在导入 Unity 的时候会被转换成 AnimationClip ，所以要从 AnimationClip  里面获取。
+译者注：意思就是教你如何获取 motion3.json 里面事件的具体信息，然后因为 motion3.json 在导入 Unity 的时候会被转换成 AnimationClip ，所以要从 AnimationClip  里面获取。
 
 ## 摘要
 
