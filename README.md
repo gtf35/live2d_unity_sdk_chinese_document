@@ -45,11 +45,11 @@
   - 如何在模型的 Drawable 之间插入精灵    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-betweendrawables/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%A8%A1%E5%9E%8B%E7%9A%84%20Drawable%20%E4%B9%8B%E9%97%B4%E6%8F%92%E5%85%A5%E7%B2%BE%E7%81%B5.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/betweendrawables/)
   - 获取艺术网格中的用户数据    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-userdata-drawable/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E8%8E%B7%E5%8F%96%E8%89%BA%E6%9C%AF%E7%BD%91%E6%A0%BC%E4%B8%AD%E7%9A%84%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/userdata-drawable/)
   - 获取在 motion3.json 中设置的事件    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-motion-event/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E8%8E%B7%E5%8F%96%E5%9C%A8%20motion3.json%20%E4%B8%AD%E8%AE%BE%E7%BD%AE%E7%9A%84%E4%BA%8B%E4%BB%B6.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motion-event/)
+  - 通过脚本播放动作    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-motion-unity-ow/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E4%BB%8E%E8%84%9A%E6%9C%AC%E6%92%AD%E6%94%BE%E5%8A%A8%E4%BD%9C.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motion-unity-ow/)
 
 未完成：
 
 - 如何使用组件
-  - 通过脚本播放动作    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motion-unity-ow/)
   - 如何自定义 Importer/Deleter    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/customize-importer/)
   - Original Workflow
     - 如何设置 UpdateController    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/updatecontroller/)
