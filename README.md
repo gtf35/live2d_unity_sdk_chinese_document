@@ -48,12 +48,12 @@
   - 通过脚本播放动作    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-motion-unity-ow/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E4%BB%8E%E8%84%9A%E6%9C%AC%E6%92%AD%E6%94%BE%E5%8A%A8%E4%BD%9C.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motion-unity-ow/)
   - 如何自定义 Importer/Deleter    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-customize-importer/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%A6%82%E4%BD%95%E8%87%AA%E5%AE%9A%E4%B9%89ImporterDeleter.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/customize-importer/)
   - 如何设置 UpdateController    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-updatecontroller/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%20UpdateController.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/updatecontroller/)
+  - 在 Mecanim 中启用动作淡入淡出   [博客](https://blog.gtf35.top/cubism-sdk-tutorials-motionfade/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%9C%A8%20Mecanim%20%E4%B8%AD%E5%90%AF%E7%94%A8%E5%8A%A8%E4%BD%9C%E6%B7%A1%E5%85%A5%E6%B7%A1%E5%87%BA.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motionfade/)
 
 未完成：
 
 - 如何使用组件
   - Original Workflow
-    - 在 Mecanim 中启用运动淡入    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motionfade/)
     - 使用面部特征    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/expression/)
     - 使用 Pose 功能    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/pose-unity/)
     - 保存/恢复要操作的值    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/parameterstore/)
