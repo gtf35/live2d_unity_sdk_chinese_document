@@ -1,4 +1,4 @@
-# 「Live2D Unity 文档翻译」在 Mecanim 中启用运动淡入
+# 「Live2D Unity 文档翻译」在 Mecanim 中启用动作淡入淡出
 
 本文翻译自：https://docs.live2d.com/cubism-sdk-tutorials/motionfade/
 
