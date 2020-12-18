@@ -51,12 +51,12 @@
   - 在 Mecanim 中启用动作淡入淡出   [博客](https://blog.gtf35.top/cubism-sdk-tutorials-motionfade/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%9C%A8%20Mecanim%20%E4%B8%AD%E5%90%AF%E7%94%A8%E5%8A%A8%E4%BD%9C%E6%B7%A1%E5%85%A5%E6%B7%A1%E5%87%BA.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/motionfade/)
   - 使用表情功能    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-expression/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E4%BD%BF%E7%94%A8%E8%A1%A8%E6%83%85%E5%8A%9F%E8%83%BD.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/expression/)
   - 使用 Pose 功能    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-pose-unity/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E4%BD%BF%E7%94%A8%20Pose%20%E5%8A%9F%E8%83%BD.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/pose-unity/)
+  - 保存/恢复要操作的值    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-parameterstore/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E4%BF%9D%E5%AD%98%E5%92%8C%E6%81%A2%E5%A4%8D%E5%8F%82%E6%95%B0%E5%80%BC.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/parameterstore/)
 
 未完成：
 
 - 如何使用组件
   - Original Workflow
-    - 保存/恢复要操作的值    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/parameterstore/)
     - 控制您自己的组件的执行顺序    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/using-update-controller/)
 - 定制
   - 定制材料    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/unity-material-customization/)
