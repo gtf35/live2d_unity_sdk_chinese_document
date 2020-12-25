@@ -25,7 +25,7 @@
 
 这并不是严谨的翻译，本人并不是翻译行业从业者，也根本不会日文。本文主要来自日文机翻，然后再结合实际开发经验调整到通顺，修改不该翻译的东西并润色。主要就是为了方便中国的开发者学习 「Live2d Cubism SDK for Unity」，只会竭力保证文章内容通顺且贴合实际开发情况。
 
-## 翻译情况
+## 翻译情况-SDK教程
 
 完成部分：
 
@@ -68,3 +68,7 @@
   - 运动循环播放期间淡入淡出
     - 启用淡入淡出以循环运动（动画状态机）    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/loop-playback-with-fade-animator/)
     - 启用淡入淡出以循环运动（CubismMotionController）    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/loop-playback-with-fade-cubism/)
+
+## 翻译情况-SDK手册
+
+等待教程翻译完成之后开始
