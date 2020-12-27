@@ -54,11 +54,10 @@
   - 保存/恢复要操作的值    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-parameterstore/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E4%BF%9D%E5%AD%98%E5%92%8C%E6%81%A2%E5%A4%8D%E5%8F%82%E6%95%B0%E5%80%BC.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/parameterstore/)
   - 控制您自己的组件的执行顺序    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-using-update-controller/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E6%8E%A7%E5%88%B6%E6%82%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BB%84%E4%BB%B6%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/using-update-controller/)
   - 定制材料   [博客](https://blog.gtf35.top/cubism-sdk-tutorials-material-customization/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%AE%9A%E5%88%B6%E6%9D%90%E6%96%99.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/unity-material-customization/)
+  - 制作 Cubism DIY Viewer    [博客](https://blog.gtf35.top/cubism-sdk-tutorials-use-cubismdiyviewer/) [Github](https://github.com/gtf35/live2d_unity_sdk_chinese_document/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%BB%84%E4%BB%B6/%E5%88%B6%E4%BD%9C%20Cubism%20DIY%20Viewer.md) [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/use-cubismdiyviewer/)
 
 未完成：
 
-- 定制
-  - 制作 Cubism DIY Viewer    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/use-cubismdiyviewer/)
 - 故障排除
   - 使用 AssetBundle 中的模型时出现内存泄漏问题和解决方法    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/issue-of-assetbundle/)
   - 使模型的绘制顺序正常    [官方文档](https://docs.live2d.com/cubism-sdk-tutorials/sortrendering/)
